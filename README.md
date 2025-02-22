@@ -1,12 +1,2 @@
-# Q-learning-Gaming
-Project Structure
-![image](https://github.com/user-attachments/assets/4a4c1682-5981-4d8a-92bf-939f442f9996)
-Key Features
-🧩 Maze environment
-Configurable 8x8 grid world
-Random obstacle generation (5-8)
-Visualisation interface with real-time display:
-Intelligent body positions
-Exploration paths
-Real-time reward signals
-Training progress information
+Maze Navigation with Q-learning
+本项目是一个基于 Q-learning 算法 的迷宫导航系统，通过强化学习训练智能体在随机生成的迷宫中寻找从起点到终点的最优路径。项目包含迷宫环境搭建、Q-learning 算法实现、训练与测试脚本，并支持实时可视化。
